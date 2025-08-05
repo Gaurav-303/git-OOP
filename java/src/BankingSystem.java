@@ -8,7 +8,9 @@ abstract class Account {
         this.accNo = accNo;
     }
 
-    void deposit(double amt) { balance += amt; }
+    void deposit(double amt) {
+        balance += amt;
+    }
 
     abstract boolean withdraw(double amt);
 
@@ -18,19 +20,29 @@ abstract class Account {
 }
 
 class SavingsAccount extends Account {
-    SavingsAccount(String name, int accNo) { super(name, accNo); }
+    SavingsAccount(String name, int accNo) {
+        super(name, accNo);
+    }
 
     boolean withdraw(double amt) {
-        if (balance - amt >= 1000) { balance -= amt; return true; }
+        if (balance - amt >= 1000) {
+            balance -= amt;
+            return true;
+        }
         return false;
     }
 }
 
 class CurrentAccount extends Account {
-    CurrentAccount(String name, int accNo) { super(name, accNo); }
+    CurrentAccount(String name, int accNo) {
+        super(name, accNo);
+    }
 
     boolean withdraw(double amt) {
-        if (balance - amt >= -5000) { balance -= amt; return true; }
+        if (balance - amt >= -5000) {
+            balance -= amt;
+            return true;
+        }
         return false;
     }
 }
