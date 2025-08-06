@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="BoardingGateSimulation" type="Application" factoryName="Application" nameIsGenerated="true">
-    <option name="MAIN_CLASS_NAME" value="BoardingGateSimulation" />
+    <option name="MAIN_CLASS_NAME" value="day1.BoardingGateSimulation" />
     <module name="git-fundamentals" />
     <method v="2">
       <option name="Make" enabled="true" />
