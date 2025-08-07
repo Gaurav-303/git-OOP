@@ -1,4 +1,4 @@
-package CustomerDateFormat;
+package customerdateformat;
 
 import java.util.Scanner;
 

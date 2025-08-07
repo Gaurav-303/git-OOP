@@ -1,4 +1,4 @@
-package ShapeAreacalculator;
+package shapeareacalculator;
 
 class Triangle extends Shape {
     private double base, height;

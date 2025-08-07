@@ -1,4 +1,4 @@
-package Salary;
+package salary;
 
 abstract class Employee {
     String name;

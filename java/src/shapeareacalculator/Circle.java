@@ -1,4 +1,4 @@
-package ShapeAreacalculator;
+package shapeareacalculator;
 
 class Circle extends Shape {
     private double radius;

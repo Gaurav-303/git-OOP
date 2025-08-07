@@ -1,4 +1,4 @@
-package StudentGradingSystem;
+package studentgradingsystem;
 
 import java.util.Scanner;
 

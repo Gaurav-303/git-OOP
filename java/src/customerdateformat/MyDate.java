@@ -1,4 +1,4 @@
-package CustomerDateFormat;
+package customerdateformat;
 
 public class MyDate {
     private int day;

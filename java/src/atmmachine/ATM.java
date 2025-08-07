@@ -1,4 +1,4 @@
-package ATMmachine;
+package atmmachine;
 
 import java.util.Scanner;
 

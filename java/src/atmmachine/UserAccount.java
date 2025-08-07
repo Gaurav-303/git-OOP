@@ -1,4 +1,4 @@
-package ATMmachine;
+package atmmachine;
 
 public class UserAccount {
     private int accountNumber;

@@ -1,4 +1,4 @@
-package ATMmachine;
+package atmmachine;
 
 public class Bank {
     private UserAccount[] accounts;

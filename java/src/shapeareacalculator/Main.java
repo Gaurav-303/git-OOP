@@ -1,4 +1,4 @@
-package ShapeAreacalculator;
+package shapeareacalculator;
 
 import java.util.Scanner;
 

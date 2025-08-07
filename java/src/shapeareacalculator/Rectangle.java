@@ -1,4 +1,4 @@
-package ShapeAreacalculator;
+package shapeareacalculator;
 class Rectangle extends Shape {
     private double length, width;
 

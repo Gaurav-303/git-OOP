@@ -1,4 +1,4 @@
-package Salary;
+package salary;
 class ContractorEmployee extends Employee {
     double contractAmount;
 

@@ -1,4 +1,4 @@
-package Salary;
+package salary;
 
 class PartTimeEmployee extends Employee {
     double hourlyRate;

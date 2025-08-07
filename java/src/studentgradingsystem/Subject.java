@@ -1,4 +1,4 @@
-package StudentGradingSystem;
+package studentgradingsystem;
 
 public class Subject {
     private String name;
